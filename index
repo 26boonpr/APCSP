@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+
+<div class="heading">
+    <h1>Shou</h1>
+    <p>Welcome to my personal webpage!</p>
+</div>
+
+<div class="section">
+    <h1>My Extracurricular Activities</h1>
+    <img src="piedmont-high.webp" alt="Extracurricular Activity" width="150" height="100">
+    <p>I am involved in several extracurricular activities, including playing badminton, leading the dodgeball club, and participating in volunteer projects around the city.</p>
+</div>
+
+</body>
+</html>
